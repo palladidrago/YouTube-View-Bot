@@ -1,6 +1,6 @@
 How To Use:
 
-STEP 1 (Installing Python):
+## STEP 1 (Installing Python):
   Install Anaconda Python 3.7 Version
 
   https://www.anaconda.com/download/
@@ -9,7 +9,7 @@ STEP 1 (Installing Python):
   Anaconda to the PATH variable and to make Anaconda the default
   Python installation, make sure both of those boxes are checked. 
 
-STEP 2 (Installing the ChromeDriver):
+## STEP 2 (Installing the ChromeDriver):
   Once Anaconda is installed find your Anaconda3 folder. It should
   be located at C:\Users\<Your Username>\Anaconda3 if you chose the 
   default install location.
@@ -21,7 +21,7 @@ STEP 2 (Installing the ChromeDriver):
 
   https://www.google.com/chrome/
 
-STEP 3 (Setting Up the Viewbot Settings):
+## STEP 3 (Setting Up the Viewbot Settings):
   This part might be a litte tricky. Figure out what search on YouTube
   brings your video up as the first option. Make note of that exact
   search.
@@ -50,7 +50,7 @@ STEP 3 (Setting Up the Viewbot Settings):
              it will utilze most of your CPU cores to view the video
 
   
-STEP 4 (Running the Bot):
+## STEP 4 (Running the Bot):
   First take note of the location of the folder that you extracted.
   Then start up a command prompt. Look at the full path that the folder
   is in. I.e. C:\Users\<Your Username>\Desktop\Youtube-View-Bot.
